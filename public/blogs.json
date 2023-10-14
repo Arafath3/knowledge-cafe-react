@@ -1,0 +1,52 @@
+[
+  {
+    "ID": 12345,
+    "Cover": "https://i.ibb.co/mbhX37q/3d-render-spooky-landscape-with-alien-foggy-forest.jpg",
+    "Title": "The Secret Garden",
+    "Author": "Jane Smith",
+    "Img": "https://i.ibb.co/Lxjhb5X/photo-1579293676244-953f569610cd.webp",
+    "Posted_Date": "2023-07-10",
+    "Reading_Time": 45,
+    "Hashtags": ["#fiction", "#mystery", "#gardening"]
+  },
+  {
+    "ID": 67890,
+    "Cover": "https://i.ibb.co/1qPNtb4/full-shot-scary-character-posing.jpg",
+    "Title": "Lost in Wonderland",
+    "Author": "John Doe",
+    "Img": "https://i.ibb.co/S3MmR46/photo-1597524734346-1e97c3b946c8.webp",
+    "Posted_Date": "2023-06-15",
+    "Reading_Time": 60,
+    "Hashtags": ["#fantasy", "#adventure", "#wonderland"]
+  },
+  {
+    "ID": 23456,
+    "Cover": "https://i.ibb.co/m5Fq9Tx/photo-1506368249639-73a05d6f6488.webp",
+    "Title": "Timeless Love",
+    "Author": "Emily Johnson",
+    "Img": "https://i.ibb.co/dGJ6Cyq/photo-1607990281513-2c110a25bd8c.webp",
+    "Posted_Date": "2023-08-22",
+    "Reading_Time": 30,
+    "Hashtags": ["#romance", "#time-travel", "#love"]
+  },
+  {
+    "ID": 78901,
+    "Cover": "https://i.ibb.co/qnRZqp5/premium-photo-1679607677942-d07fcab72502.webp",
+    "Title": "The Galactic Odyssey",
+    "Author": "David Brown",
+    "Img": "https://i.ibb.co/Lxjhb5X/photo-1579293676244-953f569610cd.webp",
+    "Posted_Date": "2023-05-03",
+    "Reading_Time": 90,
+    "Hashtags": ["#sciencefiction", "#space", "#adventure"]
+  },
+  {
+    "ID": 34567,
+    "Cover": "https://i.ibb.co/qR7S4Rn/view-3d-couple-with-lanterns.jpg",
+    "Title": "Cooking Delights",
+    "Author": "Sarah Lee",
+    "Img": "https://i.ibb.co/S3MmR46/photo-1597524734346-1e97c3b946c8.webp",
+    "Posted_Date": "2023-09-18",
+    "Reading_Time": 50,
+    "Hashtags": ["#cooking", "#recipes", "#foodie"]
+  }
+]
